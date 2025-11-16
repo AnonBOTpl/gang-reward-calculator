@@ -21,6 +21,8 @@
 
 ## 🖼️ Preview
 
+![Screenshot](https://github.com/AnonBOTpl/gang-reward-calculator/blob/main/sreenshoot.png)
+
 The calculator allows you to:
 - Enter the number of players (2-20)
 - Set the total reward pool
@@ -112,7 +114,6 @@ pyinstaller --onefile --windowed --name="GangRewardCalculator_PL" src/gang_calcu
 - ✅ **No data collection** - everything stays on your computer
 - ✅ **Open source** - you can review all code
 - ✅ **No installation needed** - portable .exe file
-- ✅ **Virus scan available** - [Check on VirusTotal](https://www.virustotal.com)
 
 ## 🐛 Troubleshooting
 
