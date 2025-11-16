@@ -115,6 +115,10 @@ pyinstaller --onefile --windowed --name="GangRewardCalculator_PL" src/gang_calcu
 - ✅ **Open source** - you can review all code
 - ✅ **No installation needed** - portable .exe file
 
+**Note:** Some antivirus software may show false positives due to PyInstaller's 
+packaging method. This is a known issue with all PyInstaller apps. The source 
+code is completely open for your review.
+
 ## 🐛 Troubleshooting
 
 **App won't start?**
