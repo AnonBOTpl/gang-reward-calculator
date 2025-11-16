@@ -112,7 +112,10 @@ pyinstaller --onefile --windowed --name="GangRewardCalculator_EN" src/gang_calcu
 - ✅ **Brak zbierania danych** - wszystko zostaje na Twoim komputerze
 - ✅ **Otwarty kod źródłowy** - możesz przejrzeć cały kod
 - ✅ **Nie wymaga instalacji** - przenośny plik .exe
-- ✅ **Dostępne skanowanie wirusów** - [Sprawdź na VirusTotal](https://www.virustotal.com)
+
+**Uwaga:** Niektóre programy antywirusowe mogą wyświetlać fałszywe alarmy 
+z powodu metody pakowania PyInstaller. Jest to znany problem wszystkich aplikacji 
+PyInstaller. Kod źródłowy jest całkowicie otwarty do przeglądu.
 
 ## 🐛 Rozwiązywanie problemów
 
